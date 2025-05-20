@@ -1,4 +1,4 @@
 streamlit
-plotly
 garminconnect
-pandas
+requests
+plotly

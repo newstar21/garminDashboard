@@ -1,0 +1,16 @@
+{
+  "schlaf": {
+    "2024-05-01": {"dauer": 7.2, "qualität": "gut"},
+    "2024-05-02": {"dauer": 6.8, "qualität": "mittel"},
+    "2024-05-03": {"dauer": 5.5, "qualität": "schlecht"}
+  },
+  "herzfrequenz": {
+    "2024-05-01": 62,
+    "2024-05-02": 65,
+    "2024-05-03": 72
+  },
+  "training": [
+    {"datum": "2024-05-01", "typ": "Tennis", "dauer_min": 90},
+    {"datum": "2024-05-02", "typ": "Kraft", "dauer_min": 45}
+  ]
+}
